@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Delegates__Events__and_Lambda_Expressions__programming_C_Sharp</RootNamespace>
+  </PropertyGroup>
+
+</Project>
